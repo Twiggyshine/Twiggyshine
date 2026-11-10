@@ -1,4 +1,12 @@
-## Hi there 👋
+Olga Bezrukova 
+
+Tech Stack
+💻   HTML5 CSS JS TS 
+🌐   React Next.js Node.js 
+⚙️   Git GitHub 
+🔧   Visual Studio Code Visual Studio IntelliJ IDEA
+🖥   https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E
+
 
 <!--
 **Twiggyshine/Twiggyshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
