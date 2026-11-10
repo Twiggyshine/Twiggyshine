@@ -13,8 +13,8 @@ Front-end Developer (React)
 
 
 **Connect**
-* 🔗 LinkedIn: [twiggyshine](https://www.linkedin.com/in/twiggyshine/)
-* 🧩 LeetCode: [Twiggyshine](https://leetcode.com/u/Twiggyshine/)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/twiggyshine/)
+* 🧩 [Leetcode](https://leetcode.com/u/Twiggyshine/)
 * 🐙 GitHub: issues & PRs welcome
 
 <!--
