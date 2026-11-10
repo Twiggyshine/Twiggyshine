@@ -6,7 +6,7 @@ Front-end Developer (React)
 
 * 💻 HTML5, CSS, JS, TS, C#
 * 🌐 React, Next.js, Node.js, Express
-* 🛢 MSSQL, MongoDB
+* 🛢 Vite
 * ⚙️ Git, GitHub, Jira, Confluence
 * 🔧 Visual Studio Code, Visual Studio
 * 🖥 Figma
