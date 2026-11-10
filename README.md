@@ -4,10 +4,10 @@ Front-end Developer (React)
 
 🛠 **Tech Stack**
 
-* 💻 HTML5, CSS, JS, TS, C#
-* 🌐 React, Next.js, Node.js, Express
+* 💻 HTML5, CSS, JS, TS
+* 🌐 React,React Native, Node.js, 
 * 🛢 Vite
-* ⚙️ Git, GitHub, Jira, Confluence
+* ⚙️ Git, GitHub
 * 🔧 Visual Studio Code, Visual Studio, IntelliJ IDEA
 * 🖥 Figma
 
