@@ -14,7 +14,7 @@ Front-end Developer (React)
 
 **Connect**
 * [LinkedIn](https://www.linkedin.com/in/twiggyshine/)
-* <a href="https://leetcode.com/u/Twiggyshine/" target="_blank">LeetCode <img src="https://api.iconify.design/devicon/leetcode.svg" height="16" /></a>
+* <img src="https://api.iconify.design/devicon/leetcode.svg" height="16" align="center" /> <a href="https://leetcode.com/u/Twiggyshine/" target="_blank">LeetCode</a>
 * 🐙 GitHub: issues & PRs welcome
 
 <!--
