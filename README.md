@@ -2,12 +2,14 @@
 
 Front-end Developer (React)
 
+🛠 **Tech Stack**
+
 * 💻 HTML5, CSS, JS, TS, C#
 * 🌐 React, Next.js, Node.js, Express
 * 🛢 MSSQL, MongoDB
 * ⚙️ Git, GitHub, Jira, Confluence
 * 🔧 Visual Studio Code, Visual Studio
-* 🖥Figma(https://camo.githubusercontent.com/3b0d3307590a84fe4c156cd14710046fa2a6c38a9c4b33694f48beac6934f8fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d3333333333333f7374796c653d666c6174266c6f676f3d6669676d61266c6f676f436f6c6f723d463234453145)
+* 🖥 Figma
 
 
 <!--
