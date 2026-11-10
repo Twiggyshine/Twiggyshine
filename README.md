@@ -1,11 +1,11 @@
-Olga Bezrukova 
+<h1 style="font-size: 60px;">Olga Bezrukova</h1>
 
 Tech Stack
 💻   HTML5 CSS JS TS 
 🌐   React Next.js Node.js 
 ⚙️   Git GitHub 
 🔧   Visual Studio Code Visual Studio IntelliJ IDEA
-🖥   https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E
+🖥   
 
 
 <!--
