@@ -13,7 +13,7 @@ Front-end Developer (React)
 
 
 **Connect**
-* [<img src="https://api.iconify.design/logos/linkedin.svg" height="16" align="center" /> LinkedIn](https://www.linkedin.com/in/twiggyshine/)
+* [<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="16" align="center" />](https://www.linkedin.com/in/twiggyshine/)
 * [<img src="https://api.iconify.design/devicon/leetcode.svg" height="16" align="center" /> LeetCode](https://leetcode.com/u/Twiggyshine/)
 * 🐙 GitHub: issues & PRs welcome
 
