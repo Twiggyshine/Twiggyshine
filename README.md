@@ -8,13 +8,13 @@ Front-end Developer (React)
 * 🌐 React, Next.js, Node.js, Express
 * 🛢 Vite
 * ⚙️ Git, GitHub, Jira, Confluence
-* 🔧 Visual Studio Code, Visual Studio
+* 🔧 Visual Studio Code, Visual Studio, IntelliJ IDEA
 * 🖥 Figma
 
 
 **Connect**
-* 🔗 [LinkedIn](https://www.linkedin.com/in/twiggyshine/)
-* 🧩 [Leetcode](https://leetcode.com/u/Twiggyshine/)
+* [LinkedIn](https://www.linkedin.com/in/twiggyshine/)
+* [![LeetCode](https://api.iconify.design/devicon/leetcode.svg)](https://leetcode.com/u/Twiggyshine/)
 * 🐙 GitHub: issues & PRs welcome
 
 <!--
