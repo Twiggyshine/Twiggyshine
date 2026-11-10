@@ -1,6 +1,6 @@
-<p align="center">
-  <h1>Имя Фамилия</h1>
-</p>
+
+  <h1>Olga Bezrukova</h1>
+
 
 Front-end Developer (React)
 
