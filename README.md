@@ -12,6 +12,11 @@ Front-end Developer (React)
 * 🖥 Figma
 
 
+**Connect**
+* 🔗 LinkedIn: [twiggyshine](https://www.linkedin.com/in/twiggyshine/)
+* 🧩 LeetCode: [Twiggyshine](https://leetcode.com/u/Twiggyshine/)
+* 🐙 GitHub: issues & PRs welcome
+
 <!--
 **Twiggyshine/Twiggyshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
